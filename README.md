@@ -3,10 +3,10 @@
 ### Visual Basic .NET, MySQL.
 
 ### Features:
-* ![Patients - Add]
-* ![Patients - Edit]
-* ![Patients - Delete]
-* ![Search]
+* Add
+* Edit
+* Delete
+* Search
 
 ### Add
 ![Patients - Add](https://github.com/jeremiahtorralba/PatientsApp/assets/28037427/e2eda3ad-dc7c-47e1-bac4-d421f8b88e66)
