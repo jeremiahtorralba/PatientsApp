@@ -3,7 +3,7 @@
 ### Visual Basic .NET, MySQL.
 
 ### Features:
-* Add (https://github.com/jeremiahtorralba/PatientsApp/blob/main/README.md)
+* Add
 * Edit
 * Delete
 * Search
